@@ -1,0 +1,2 @@
+# Ticro
+A premium website
